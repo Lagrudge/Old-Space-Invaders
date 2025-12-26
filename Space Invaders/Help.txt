@@ -1,0 +1,25 @@
+System Requirements:
+
+OS Name	Microsoft Windows 7 Professional
+System Type	x64-based PC
+Processor	Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz, 2501 Mhz, 4 Core(s), 4 Logical Processor(s)
+SMBIOS Version	2.6
+Installed Physical Memory (RAM)	4.00 GB
+Total Physical Memory	3.91 GB
+Available Physical Memory	1.02 GB
+Total Virtual Memory	12.0 GB
+Available Virtual Memory	1.19 GB
+Page File Space	8.10 GB
+
+
+Description:
+
+The Main Menu allows you to navigate through the scoreboard, the options, and the start button.
+After selecting a game mode, you can start. In the options menu, you can set and select different
+aspects of the game to cater to your experience. The scoreboard features the names and scores
+of the individuals who have played.
+
+Instructions:
+
+Use the A & D keys to move your cannon around. Use the SPACE key to fire laser bullets at the incoming
+aliens. Fight through each wave to achieve a new high score!
